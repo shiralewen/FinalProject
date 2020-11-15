@@ -1,0 +1,49 @@
+.column{
+    margin-right: -53vw;
+    margin-top: 12vh;
+}
+.input{
+direction: rtl;
+}
+.ui.form .field .ui.input{
+    text-align: right;
+}
+
+#lastName{
+    text-align: right;
+}
+#firstName{
+    text-align: right;
+}
+#Tz{
+    text-align: right;
+}
+#dateborn{
+    text-align: right;
+}
+#city{
+    text-align: right;
+}
+#street{
+    text-align: right;
+}
+#phon{
+    text-align: right;
+}
+#mail{
+    text-align: right;
+}
+#password{
+    text-align: right;
+}
+
+ 
+.ui.fluid.button{
+    background-color: turquoise;
+}
+
+.ui.center.aligned.header{
+    color:lightskyblue;
+}
+
+ 

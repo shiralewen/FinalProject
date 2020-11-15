@@ -1,0 +1,23 @@
+.movingImage{
+    width: 100vw;
+    height: auto;
+}
+
+.power{
+    /* width: 98vw; */
+    height: 80vh;
+    background-image:url('Power.png');
+    background-position-x: center;
+}
+ 
+ .ui.inverted.orange.button{
+     margin-top: 8vh;
+     margin-left: 8vh;
+ }
+ #abc{
+     margin-left: 1vh;
+    
+ }
+
+ 
+ 

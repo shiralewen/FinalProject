@@ -1,0 +1,19 @@
+.App-header {
+ 
+  /* min-height: 100vh; 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);*/
+  color: white;
+  float: right;
+  margin-right: 45vw;
+}
+
+.logo{
+  margin-top: 2vh;
+  width:  13vw;
+  height: auto;
+  
+  }
